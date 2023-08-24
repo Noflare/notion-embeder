@@ -39,3 +39,94 @@ iframe {
     margin-top: -140px;
   }
 }
+
+@media (max-width: 440px) {
+  body {
+    height: calc(100vh + 155px);
+    margin-top: -155px;
+  }
+}
+
+@media (max-width: 355px) {
+  body {
+    height: calc(100vh + 177px);
+    margin-top: -177px;
+  }
+}
+
+@media (max-width: 315px) {
+  body {
+    height: calc(100vh + 195px);
+    margin-top: -195px;
+  }
+}
+
+@media (max-width: 261px) {
+  body {
+    height: calc(100vh + 216px);
+    margin-top: -216px;
+  }
+}
+
+@media (max-width: 244px) {
+  body {
+    height: calc(100vh + 234px);
+    margin-top: -234px;
+  }
+}
+
+@media (max-width: 237px) {
+  body {
+    height: calc(100vh + 252px);
+    margin-top: -252px;
+  }
+}
+
+@media (max-width: 205px) {
+  body {
+    height: calc(100vh + 274px);
+    margin-top: -274px;
+  }
+}
+
+@media (max-width: 200px) {
+  body {
+    height: calc(100vh + 292px);
+    margin-top: -292px;
+  }
+}
+
+@media (max-width: 190px) {
+  body {
+    height: calc(100vh + 310px);
+    margin-top: -310px;
+  }
+}
+
+@media (max-width: 188px) {
+  body {
+    height: calc(100vh + 328px);
+    margin-top: -328px;
+  }
+}
+
+@media (max-width: 163px) {
+  body {
+    height: calc(100vh + 350px);
+    margin-top: -350px;
+  }
+}
+
+@media (max-width: 157px) {
+  body {
+    height: calc(100vh + 368px);
+    margin-top: -368px;
+  }
+}
+
+@media (max-width: 152px) {
+  body {
+    height: calc(100vh + 389px);
+    margin-top: -389px;
+  }
+}
